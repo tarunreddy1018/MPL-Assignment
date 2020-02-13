@@ -1,0 +1,13 @@
+.footer_container {
+    background-color: #f5eeee;
+    width: 70%;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+.footer {
+    margin: 0px;
+    font-family: sans-serif;
+}

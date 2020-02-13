@@ -1,0 +1,35 @@
+.coupon {
+    width: 80%;
+    flex: 1 1;
+    background-image: url("../../images/rfrrl_card_bg.png");
+    background-size: 100% 80%;
+    background-repeat: no-repeat;
+}
+
+.coupon-text {
+    display: flex;
+    flex-direction: column;
+    color: black;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+.coupon-text h3 {
+    font-family: sans-serif;
+}
+
+.coupon-text p {
+    margin: 0;
+}
+
+.amount {
+    font-size: 80px;
+    font-weight: bold;
+    color: red;
+    font-family: sans-serif;
+}
+
+.code {
+    font-size: 50px;
+    font-family: sans-serif;
+}
